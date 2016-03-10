@@ -1,0 +1,18 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<build>
+    <project>
+        <backuplist>
+            <state>on</state>
+            <offset>4</offset>
+            <path>app/config/config.php</path>
+        </backuplist>
+        <public>
+            <state>on</state>
+            <preremove>on</preremove>
+            <path>app</path>
+            <path>src</path>
+            <path>framework</path>
+            <path>web</path>
+        </public>
+    </project>
+</build>
